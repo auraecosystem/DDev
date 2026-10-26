@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # DDEV Add-on Update Checker
 #
 # This script validates that a DDEV add-on follows the current template standards.
